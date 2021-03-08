@@ -1,13 +1,14 @@
 # Rubens Fidelis
 
-CTO & Co-founder @JustinianoFidelis
+<p>
+  CTO & Co-founder @JustinianoFidelis<br />
+  Senior Software Developer @ SETIC - Governo de Rondônia
+</p>
 
-Senior Software Developer @ SETIC - Governo de Rondônia
+Software developer with more than 10 years of experience. I love my job. I’m always looking to improve.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r2fidelis/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r2fidelis@r2fidelis.com) 
-
-Software developer with more than 10 years of experience. I love my job. I’m always looking to improve.
 
 ### I'm currently working with
 <p>
