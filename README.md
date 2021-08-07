@@ -1,8 +1,7 @@
 # Rubens Fidelis
 
 <p>
-  CTO & Co-founder @JustinianoFidelis<br />
-  Senior Software Developer @ SETIC - Governo de Rondônia
+  CTO & Co-founder @JustinianoFidelis
 </p>
 
 Software developer with more than 10 years of experience. I love my job. I’m always looking to improve.
