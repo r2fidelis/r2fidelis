@@ -1,9 +1,5 @@
 # Rubens Fidelis
 
-<p>
-  CTO & Co-founder @JustinianoFidelis
-</p>
-
 Software developer with more than 10 years of experience. I love my job. I’m always looking to improve.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r2fidelis/) 
