@@ -1,6 +1,6 @@
 # Rubens Fidelis
 
-Software developer with more than 10 years of experience. I love my job. I’m always looking to improve.
+Senior Software Developer @ Venturus
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r2fidelis/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubens@fidelis.dev) 
